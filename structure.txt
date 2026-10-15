@@ -1,0 +1,10 @@
+customer-shopping-behavior-analytics/
+│
+├── README.md                              # Main project documentation (template below)
+├── requirements.txt                       # Python dependencies
+├── data/
+│   └── customer_shopping_behavior.csv     # Your dataset
+├── notebooks/
+│   └── Customer_Shopping_Behavior_Analysis.ipynb  # Your Jupyter analysis notebook
+└── docs/
+    └── Business_Problem_Document.pdf      # Business case & project scope
